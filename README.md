@@ -9,14 +9,14 @@ A machine learning-based API that predicts diabetes using a deep learning model 
 - Flask API for easy integration.  
 - StandardScaler for data preprocessing.  
 
-## 📂 Project Structure  
-📁 diabetes-predictor
-┣ 📜 app.py # Flask API
-┣ 📜 model.py # Model Training
-┣ 📜 diabetes_model.h5 # Trained Model
-┣ 📜 scaler.pkl # Saved Scaler
-┣ 📜 requirements.txt # Dependencies
-┣ 📜 README.md # Project Documentation
+## 📂 Project Structure
+- 📁 diabetes-predictor
+- - ┣ 📜 app.py # Flask API
+- - ┣ 📜 model.py # Model Training
+- - ┣ 📜 diabetes_model.h5 # Trained Model
+- - ┣ 📜 scaler.pkl # Saved Scaler
+- - ┣ 📜 requirements.txt # Dependencies
+- - ┣ 📜 README.md # Project Documentation
 
 ## ⚙️ Installation & Setup  
 1️⃣ **Clone the repository:**  
