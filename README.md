@@ -21,7 +21,7 @@ A machine learning-based API that predicts diabetes using a deep learning model 
 ## ⚙️ Installation & Setup  
 1️⃣ **Clone the repository:**  
 ```sh
-git clone https://github.com/your-username/diabetes-predictor.git
+git clone https://github.com/gopikashreepr/diabetes-predictor.git
 cd diabetes-predictor
 ```
 2️⃣ **Install dependencies:**
